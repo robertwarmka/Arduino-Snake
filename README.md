@@ -11,6 +11,6 @@ The circuit diagram has been lifted from SunFounder's Dot-matrix Display tutoria
 ## Credit
 Credit to SunFounder for the original 8x8 LED Dot Matrix display tutorial and for the circuit diagram
 
-Email:support@sunfounder.com
+Email: support@sunfounder.com
 
-Website:www.sunfounder.com
+Website: www.sunfounder.com
